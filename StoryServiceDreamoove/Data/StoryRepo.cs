@@ -42,7 +42,7 @@ namespace StoryServiceDreamoove.Data
         public IEnumerable<Story> GetAllStoryByUserId(int id)
         {
             _context.User.ToList();
-            return _context.Story.Where(story => story.UserId == id).ToList();
+            return _context.Story.Where(story => story.UserId == id).Reverse().ToList();
         }
 
         public Story GetStory(int id)

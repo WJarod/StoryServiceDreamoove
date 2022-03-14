@@ -6649,11 +6649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\wuill\\OneDrive\\Bureau\\Nouveau dossier\\StoryServiceDreamoove\\StoryServiceDreamoove.csproj",
+      "projectUniqueName": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\StoryServiceDreamoove\\StoryServiceDreamoove\\StoryServiceDreamoove.csproj",
       "projectName": "StoryServiceDreamoove",
-      "projectPath": "c:\\Users\\wuill\\OneDrive\\Bureau\\Nouveau dossier\\StoryServiceDreamoove\\StoryServiceDreamoove.csproj",
+      "projectPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\StoryServiceDreamoove\\StoryServiceDreamoove\\StoryServiceDreamoove.csproj",
       "packagesPath": "C:\\Users\\wuill\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\wuill\\OneDrive\\Bureau\\Nouveau dossier\\StoryServiceDreamoove\\obj\\",
+      "outputPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\StoryServiceDreamoove\\StoryServiceDreamoove\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wuill\\AppData\\Roaming\\NuGet\\NuGet.Config"
